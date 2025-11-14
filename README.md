@@ -1,7 +1,9 @@
 # DVTWeatherApp
 
 
-A clean, modern iOS weather application that displays **5-day weather forecasts** for your current location or a selected city. Built with **SwiftUI** and follows **MVVM architecture** for maintainable and scalable code.  
+**DVT Weather App** is an iOS application built as part of the DVT iOS Assessment. The app displays a **5-day weather forecast** based on the user’s current location and adapts the background according to the weather type (Cloudy, Sunny, Rainy).
+
+This project demonstrates clean coding practices, modern iOS architecture, and best practices for app development.
 
 ---
 
@@ -17,11 +19,18 @@ A clean, modern iOS weather application that displays **5-day weather forecasts*
 ---
 
 ## Screenshots
+<img width="361" height="737" alt="Screenshot 2025-11-15 at 12 05 55 AM" src="https://github.com/user-attachments/assets/0a6edf27-ca12-46cd-baab-7b1f5ced8bb0" />
+<img width="361" height="734" alt="Screenshot 2025-11-15 at 12 06 12 AM" src="https://github.com/user-attachments/assets/be71fd98-6fa5-4120-a855-28961d6f57c2" />
 
-![Weather Forecast](screenshots/forecast.png)  
-![Weather Details](screenshots/details.png)
 
-> Replace `screenshots/forecast.png` and `screenshots/details.png` with your actual images.
+
+## Video
+
+
+https://github.com/user-attachments/assets/c8613803-6807-4813-9c33-98eb568236c8
+
+
+
 
 ---
 
@@ -35,6 +44,7 @@ A clean, modern iOS weather application that displays **5-day weather forecasts*
 - **Version Control:** Git  
 
 ---
+
 
 ## Installation
 
